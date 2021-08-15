@@ -1,0 +1,45 @@
+.bgcd{background-color: white}
+.bgcn{background-color: black}
+.bgbd{background-color: black; border-radius:10px;}
+.bgbn{background-color: white; border-radius:10px;}
+.formcbgd{
+    top: -20px;
+    left: -10px;
+    height: 100%;
+    background-color: deepskyblue;
+    border: 2px black solid;
+    border-radius: 30px;
+}
+.formcbgn{
+    top: -15px;
+    left: -10px;
+    height: 150%;
+    background-color: mediumpurple;
+    border: 2px white solid;
+    border-radius: 30px;
+}
+.titleStyle{
+    font-size: 130%;
+}
+.formstyle{
+    width: 100%;
+    height: 50px;
+    position: relative;
+    overflow: hidden;
+}
+.inputStyled{
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding-top: 20px;
+    border: none;
+    outline: 0px;
+}
+.inputStylen{
+    width: 100%;
+    height: 100%;
+    color: black;
+    padding-top: 20px;
+    border: none;
+    outline: 0px;
+}
